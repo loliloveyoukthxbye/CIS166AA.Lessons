@@ -3,3 +3,22 @@ Marita Lawson
 MAR23702027
 February 2025
  */
+
+ #l1project {
+    color: rgb(162, 35, 35)
+ }
+
+
+ #myname {
+    font-weight: lighter;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+ }
+
+ .bodystyle {
+    align-content: center;
+    float: left;
+    float: right;
+    background-color: rgb(255, 250, 233);
+    
+ }
